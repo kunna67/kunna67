@@ -26,6 +26,17 @@
 
 <br/>
 
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kunna67&column=9&margin-w=1&margin-h=1&no-bg=true&no-frame=true&theme=juicyfresh)
+
+
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kunna67&show_icons=true&theme=dark&" alt="kunna67" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunna67&show_icons=true&theme=dark&locale=en&layout=compact" alt="kunna67" /></td>
+  </tr>
+</table>
+
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kunna67&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> </div>
 
