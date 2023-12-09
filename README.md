@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 👀 Cheak my  <a href="https://www.hackerrank.com/kunnalbansal6426">Hackerrank</a>  ||   <a href="https://leetcode.com/kunnalbansal6426/">LeetCode</a>
+- 👀 Cheak my  <a href="https://auth.geeksforgeeks.org/user/kunnalbansal6426">GeeksforGeeks</a>  ||   <a href="https://leetcode.com/kunnalbansal6426/">LeetCode</a>
 ---
 	
 ### 🛠 &nbsp;Languages and Tools
